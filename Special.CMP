@@ -1,0 +1,14 @@
+Component   : ADL5330
+PCB Library : Special.PcbLib
+Date        : 12.11.2018
+Time        : 14:50:12
+
+
+
+Dimension : 5.029 x 5.207 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       0          4        0       1        0
