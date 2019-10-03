@@ -1,0 +1,29 @@
+Component Name : HMC1118
+
+Part Count : 2
+
+Part : DA?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : DA?
+     Pins - (Normal) : 17
+          GND            1              Passive
+          GND            2              Passive
+          GND            4              Passive
+          GND            5              Passive
+          GND            6              Passive
+          GND            8              Passive
+          GND            13             Passive
+          GND            15             Passive
+          GND            16             Passive
+          GND            17             Passive
+          RFC            3              Passive
+          RF2            7              Passive
+          Vss            9              Passive
+          Vctrl          10             Passive
+          LS             11             Passive
+          Vdd            12             Passive
+          RF1            14             Passive
+          Hidden Pins : 
+

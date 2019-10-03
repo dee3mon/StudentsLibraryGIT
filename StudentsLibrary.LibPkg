@@ -632,6 +632,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNDBYWJY
 
+[GeneratedDocument1]
+DocumentPath=SWITCHES.cmp
+DItemRevisionGUID=
+
 [Generic_IntLibOptions]
 OldFormat=False
 
