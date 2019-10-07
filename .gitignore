@@ -3,3 +3,5 @@
 *.cmp
 *.err
 /__Previews
+*.CMP
+*.ERR
