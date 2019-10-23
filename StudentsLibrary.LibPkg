@@ -632,6 +632,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNDBYWJY
 
+[Document36]
+DocumentPath=FrequencyConvectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EPBEJKAA
+
 [GeneratedDocument1]
 DocumentPath=SWITCHES.cmp
 DItemRevisionGUID=
@@ -1237,6 +1254,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=AnsysEDB
+OutputName12=Ansys EDB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
