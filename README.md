@@ -5,8 +5,10 @@ Example library for workshops.
 
 Сформирована как библиотечный проект в формате интегрированной библиотеки. 
 
-Для подключения в качестве интегрированной библиотеки (только как источник компонентов) достаточно /Projects Outputs for StudentsLibrary/StudentsLibrary.IntLib.
-Если планируется использовать как библиотечный проект для добавления своих компонентов, то нужно брать все файлы и открывать StudentsLibrary.LibPkg как проект.
+Компоненты созданы в соотвествии с методическим описанием [Библиотека компонентов](https://github.com/dee3mon/altium-methodic/blob/master/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.pdf)
+
+Для подключения в качестве интегрированной библиотеки (только как источник компонентов) достаточно [/Projects Outputs for StudentsLibrary/StudentsLibrary.IntLib](https://github.com/dee3mon/StudentsLibraryGIT/blob/master/Project%20Outputs%20for%20StudentsLibrary/StudentsLibrary.IntLib)
+Если планируется использовать как библиотечный проект для добавления своих компонентов, то нужно брать все файлы и открывать [StudentsLibrary.LibPkg](https://github.com/dee3mon/StudentsLibraryGIT/blob/master/StudentsLibrary.LibPkg) как проект.
 
 
 Схема механических слоев в PCBLib (для совместимости с AD18 и ниже):
