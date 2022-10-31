@@ -762,6 +762,10 @@ GenerateClassCluster=0
 DocumentUniqueId=DIFIVWEL
 
 [GeneratedDocument1]
+DocumentPath=IC.cmp
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=TestClip.cmp
 DItemRevisionGUID=
 
@@ -1339,6 +1343,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1471,6 +1480,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
