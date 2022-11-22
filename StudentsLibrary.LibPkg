@@ -778,14 +778,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATYVLYSP
 
-[GeneratedDocument1]
-DocumentPath=IC.cmp
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=TestClip.cmp
-DItemRevisionGUID=
-
 [Generic_IntLibOptions]
 OldFormat=False
 
@@ -1147,6 +1139,12 @@ OutputName10=BoardAssistant text documents
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+OutputType11=Export Project History
+OutputName11=Export Project History
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -2978,4 +2976,9 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Us
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[Parameter Manager Custom Column Order]
+diode.schlib=Comment,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,PartNumber,Manufacturer,V_FORVARD,I_FORVARD,Color
+connectors.schlib=Comment,"Body Plating",BodyColor,Case\/Package,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,"Connector Type","Contact Material","Contact Plating","Datasheet URL","Datasheet Version","Dielectric Material","Body Material",ELV,"Fastening Type",Gender,"Housing Colour",Impedance,"Insulation Material","Lead Free",Length,Manufacturer,"Manufacturer URL","Max Frequency","Max Operating Temperature","Min Operating Temperature",Mount,"Mounting Technology",Net,Net1,Net10,Net11,Net12,Net13,Net14,Net2,Net3,Net4,Net5,Net6,Net7,Net8,Net9,NetB,NetGND,NetT,Net_D+,Net_D-,Net_GND,Net_ID,Net_Shield,Net_VBUS,Orientation,"Package Description","Package Quantity","Package Reference",Packaging,PartNumber,"PCB Mounting Orientation","Radiation Hardening",RoHSCompliant,"Supplier 1","Supplier Part Number 1",Termination,TestPadSize
+powermangment.schlib=Comment,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,Manufacturer,PartNumber,BatteryType
 
